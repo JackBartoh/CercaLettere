@@ -1,0 +1,22 @@
+﻿<Window x:Class="BartolettiJacopo._5G.CercaLettere.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BartolettiJacopo._5G.CercaLettere"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+            </Grid.RowDefinitions>
+            <TextBlock Margin="30" TextAlignment="Center" FontSize="40" VerticalAlignment="Top">La Frase:</TextBlock>
+            <TextBox Margin="30" TextAlignment="Center" FontSize="40" VerticalAlignment="Bottom" Name="Frase"></TextBox>
+            <TextBlock Grid.Row="1" Margin="30" FontSize="40" TextAlignment="Center" VerticalAlignment="Top">E' un Panagramma?</TextBlock>
+            <TextBlock Grid.Row="1" Margin="30" FontSize="40" TextAlignment="Center" VerticalAlignment="Bottom" Name="Risultato"></TextBlock>
+            <Button Grid.RowSpan="2" Margin="190" FontSize="25" Name="btnVai" Click="BtnVai_Click">Calcola</Button>
+        </Grid>
+    </Grid>
+</Window>

@@ -1,0 +1,9 @@
+﻿<Application x:Class="BartolettiJacopo._5G.CercaLettere.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BartolettiJacopo._5G.CercaLettere"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>

@@ -1,0 +1,15 @@
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\bin\Debug\BartolettiJacopo.5G.CercaLettere.exe.config
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\bin\Debug\BartolettiJacopo.5G.CercaLettere.exe
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\bin\Debug\BartolettiJacopo.5G.CercaLettere.pdb
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.csprojAssemblyReference.cache
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\MainWindow.g.cs
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\App.g.cs
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere_MarkupCompile.cache
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere_MarkupCompile.lref
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\MainWindow.baml
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.g.resources
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo._5G.CercaLettere.Properties.Resources.resources
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.csproj.GenerateResource.cache
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.csproj.CoreCompileInputs.cache
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.exe
+C:\Users\Jacop\Desktop\BartolettiJacopo.5G.CercaLettere\BartolettiJacopo.5G.CercaLettere\obj\Debug\BartolettiJacopo.5G.CercaLettere.pdb
